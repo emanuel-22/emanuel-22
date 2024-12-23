@@ -1,9 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2d254a&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=120&section=header"/>
 
 <h1 align="center">Hi , I'm Emanuel Barboza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2E4BF7&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer;I'm+a+Scrum+Master+and+Product+Owner" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=003247&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer;I'm+a+Scrum+Master;I'm+a+Product+Owner" /></a>
 </p>
 
 ## ⚡🙋‍♂️ About Me
