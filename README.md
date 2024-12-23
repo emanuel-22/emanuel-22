@@ -3,9 +3,9 @@
 <h1 align="center">Hi , I'm Emanuel Barboza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg">
+  <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
      <img style="display: block; margin: auto;" src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=003247&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer;I'm+a+Scrum+Master;I'm+a+Product+Owner" />
-  </a>
+  </div>
 </p>
 
 ## ⚡🙋‍♂️ About Me
