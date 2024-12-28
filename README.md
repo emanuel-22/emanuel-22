@@ -61,7 +61,10 @@ My ultimate goal is to grow professionally in the IT world. I am excited about t
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D27?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-7c3c74?style=for-the-badge&logo=eclipse-ide&logoColor=2C2255&logoColor=white)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-7c3c74?style=for-the-badge&logo=eclipse-ide&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![postman](https://img.shields.io/badge/-postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+
 
 ### Agile Methodologies
 
