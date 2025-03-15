@@ -14,8 +14,8 @@
 - 🧙🏻‍♂️ I'm passionate about agile methodologies in the IT world.
 - 💻 I have experience as a software developer.
 - 📚 I have vocation to teach and to share my knowledge.
-- 🧠 I'm a Master's student in software engineering at National University of La Plata.
-- 🎓 I graduated of Bachelor in System Analysis at National University of Salta.
+- 🧠 I'm studying a Master's degree in software engineering at National University of La Plata.
+- 🎓 I graduated in Bachelor's degree in System Analysis at National University of Salta.
 
 ## 🌱 Future goals
 </br>
